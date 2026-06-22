@@ -250,18 +250,65 @@ flutter run
 
 # 👨‍💻 Desarrollador
 
+# 👨‍💻 Desarrollador
+
 ## Ronny Feliz
 
-**Founder & Lead Developer @ Innovatech**
+**Estudiante de Ingeniería en Sistemas y Computación**  
+Apasionado por el desarrollo de software, la automatización de procesos, la infraestructura tecnológica y las soluciones multiplataforma.
 
-Especializado en:
+### 🚀 Conocimientos y Tecnologías
 
+#### 💻 Desarrollo de Software
+- C++
+- C#
+- HTML5
+- CSS3
+- SQL
+- CMD / Batch Scripting
 - Flutter
 - Dart
-- Android
-- Linux
-- Windows Desktop
-- Automatización de Procesos
+
+#### 🖥️ Infraestructura y Sistemas
+- Máquinas Virtuales (VirtualBox, VMware)
+- Sistemas Operativos Windows y Linux
+- Administración básica de servidores
+- Cloud Computing
+- Redes y conectividad
+- Automatización de tareas
+
+#### 🛠️ Herramientas Tecnológicas
+- Git & GitHub
+- Android Studio
+- Visual Studio
+- Visual Studio Code
+- Oracle SQL Developer
+- Microsoft Office
+- OpenCode
+- DeepSeek
+- Antigravity IDE
+
+#### 🌎 Idiomas
+- Español (Nativo)
+- Inglés (Nivel B2)
+
+### 🔗 Contacto y Redes
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ronnyfeliz2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ronny_Feliz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://github.com/ronnyfeliz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ronnyfeliz-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  
+  <a href="https://ronnyfeliz.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-WebSite-00C853?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+</p>
+
+> "La tecnología no solo resuelve problemas; crea oportunidades para transformar ideas en realidad."
 
 ---
 
