@@ -282,5 +282,5 @@ Si FYLORG te resulta útil:
 </p>
 
 <p align="center">
-  Innovatech © 2026
+  Ronny Feliz © 2026
 </p>
