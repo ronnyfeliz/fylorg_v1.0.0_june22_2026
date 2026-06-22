@@ -1,12 +1,10 @@
 # 📂 FYLORG
 
-<p align="center">
-  <img width="1254" height="1254" alt="FYLORG_LOGO" src="https://github.com/user-attachments/assets/8da46c0e-df59-4578-9a38-fc7b7a7dba07" />
-
-</p>
 
 <h1 align="center">FYLORG</h1>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8da46c0e-df59-4578-9a38-fc7b7a7dba07" alt="FYLORG Logo" width="220">
+</p>
 <p align="center">
   <strong>Organizador Inteligente de Archivos para Windows, Android y Linux</strong>
 </p>
