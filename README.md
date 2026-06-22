@@ -222,32 +222,6 @@ dart run build_runner build --delete-conflicting-outputs
 flutter run
 ```
 
----
-
-# 🔮 Roadmap
-
-## v1.1
-
-- [ ] Instalador para Windows
-- [ ] Corrección del tema oscuro en Android
-- [ ] Optimización de rendimiento
-- [ ] Nuevas categorías
-
-## v1.2
-
-- [ ] Sincronización en la nube
-- [ ] Perfiles personalizados
-- [ ] Exportación de reportes
-
-## v2.0
-
-- [ ] Clasificación mediante IA
-- [ ] Organización basada en contenido
-- [ ] Sincronización multi-dispositivo
-- [ ] Dashboard avanzado
-
----
-
 # 👨‍💻 Desarrollador
 
 # 👨‍💻 Desarrollador
