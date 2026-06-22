@@ -224,8 +224,6 @@ flutter run
 
 # 👨‍💻 Desarrollador
 
-# 👨‍💻 Desarrollador
-
 ## Ronny Feliz
 
 **Estudiante de Ingeniería en Sistemas y Computación**  
